@@ -79,21 +79,13 @@ footer p {
 
   color: slategrey;
 }
-.music{
+
+.mylogo{
   color: #151D3B;;
   font-family: Oxygen,sans-serif;
   position: fixed;
   right:30px;
   top:50px;
-
   width: 250px;
   height: auto;
-}
-.button{
-  background-image: url("abduheit.png");
-  border-radius: 100%;
-  color: white;
-  padding-top:70px;
-  Width:150px;
-  height: 100px;
 }
