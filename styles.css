@@ -79,12 +79,10 @@ footer p {
 
   color: slategrey;
 }
-
 .mylogo{
-
-  position: fixed;
-  right:30px;
-  top:50px;
-  width: 250px;
+  position: absolute;
+  left:40px;
+  top:30px;
+  width: 200px;
   height: auto;
 }
