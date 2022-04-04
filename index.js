@@ -13,7 +13,7 @@ $('.skill').mouseover(function(){
   });
 
   $(".mycontr").mouseover(function(){
-    $('.mycontr').css("color","purple")
+    $('.mycontr').css("color","purple");
     $(".mycontrtxt").css("color","blue");
   });
 
