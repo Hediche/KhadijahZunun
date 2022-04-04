@@ -33,6 +33,7 @@ h5{
   margin-top:60px:0;
   color: #151D3B;
   font-family: Oxygen,sans-serif;
+  
 }
 
 ul{
@@ -98,4 +99,7 @@ footer p {
 }
 .mycontrtxt{
   font-size:1.8rem;
+}
+.work-exp{
+  font-size:3rem;
 }
