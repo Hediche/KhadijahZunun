@@ -9,6 +9,7 @@ body{
 #skill{
   width:50%;
   text-align: center;
+  font-size:1.3rem;
 }
 #CV_img{
   border-radius: 100%;
@@ -86,4 +87,15 @@ footer p {
   top:10px;
   width: 280px;
   height: auto;
+}
+.unibatxt{
+  font-size:1.8rem;
+}
+.unicamtxt{font-size:1.8rem;
+}
+.i{
+  font-size:6rem;
+}
+.mycontrtxt{
+  font-size:1.8rem;
 }
