@@ -23,7 +23,7 @@ $('.mylogoimg').mouseover(function(){
 });
 $('.uniba').mouseover(function(){
   $('.uniba').animate({width:"350px"});
-  $('.unibatxt').css("color","purple","slow");
+  $('.unibatxt').css("color","purple");
 
 });
 $('.unicam').mouseover(function(){
