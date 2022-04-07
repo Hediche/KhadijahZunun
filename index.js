@@ -4,8 +4,8 @@ $('#CV_img').mouseover(function(){
   $('#CV_img').animate({'width':"350px"});
 })
 $('.skill').mouseover(function(){
-  $('.skill').animate({'width': '80%'});
   $('.skill').animate({'font-size':"1.4rem"});
+  $('.skill').css("color","purple");
 })
   
   $('.work-exp').mouseover(function(){
